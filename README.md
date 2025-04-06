@@ -1,4 +1,4 @@
-  ![Radar volgo](https://github.com/user-attachments/assets/5947ef9c-9474-4542-8a77-e92a8395b17d)![cddd](https://github.com/user-attachments/assets/6dd23e5c-6931-4bc8-a4f2-139c21da5f34)
+  ![Radar volgo](https://github.com/user-attachments/assets/5947ef9c-9474-4542-8a77-e92a8395b17d)
 
 
 
