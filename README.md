@@ -1,4 +1,5 @@
-  ![Radar volgo](https://github.com/user-attachments/assets/5947ef9c-9474-4542-8a77-e92a8395b17d)
+  ![Radar volgo](https://github.com/user-attachments/assets/5947ef9c-9474-4542-8a77-e92a8395b17d)![cddd](https://github.com/user-attachments/assets/6dd23e5c-6931-4bc8-a4f2-139c21da5f34)
+
 
 
 
@@ -87,3 +88,6 @@ Pembaruan dan Pemeliharaan: Alat ini dapat menerima pembaruan secara berkala unt
 Kepatuhan terhadap Kebijakan Privasi: Pengguna diharapkan untuk mematuhi kebijakan privasi yang berlaku saat menggunakan alat ini, terutama terkait dengan pengumpulan dan penggunaan data pribadi yang dapat dikumpulkan melalui interaksi dengan Telegram Bot atau sistem lain yang terhubung.
 
 Dengan menambahkan disclaimer ini, Anda memberikan pemahaman yang jelas kepada pengguna mengenai batasan dan tanggung jawab yang ada, serta bagaimana mereka seharusnya menggunakan alat ini dengan penuh kewaspadaan dan sesuai dengan hukum yang berlaku.
+
+
+
